@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ARMzilla/</loc>
+    <loc>https://okyzyr.github.io/ARMzilla/</loc>
     <lastmod>2025-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ARMzilla/posts/dzien-1/</loc>
+    <loc>https://okyzyr.github.io/ARMzilla/posts/dzien-1/</loc>
     <lastmod>2025-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ARMzilla/posts/</loc>
+    <loc>https://okyzyr.github.io/ARMzilla/posts/</loc>
     <lastmod>2025-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ARMzilla/categories/</loc>
+    <loc>https://okyzyr.github.io/ARMzilla/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/ARMzilla/tags/</loc>
+    <loc>https://okyzyr.github.io/ARMzilla/tags/</loc>
   </url>
 </urlset>
