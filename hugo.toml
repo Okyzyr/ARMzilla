@@ -15,6 +15,7 @@ publishDir = "docs"
   ShowReadingTime = true
   ShowCodeCopyButtons = true
   defaultTheme = "auto"
+  mainSections = ["posts"]
 
 [[menu.main]]
   name = "Strona główna"
